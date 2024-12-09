@@ -27,7 +27,6 @@ Here are some projects I’ve recently worked on:
 
 ### 📫 Get in Touch
 - **Email**: [mohamedyahiaoui@proton.me]
-- **LinkedIn**: []
-- **Website or Portfolio**: [https://www.linkedin.com/in/mohamed-ousalem-yahiaoui/]
+- **LinkedIn**: [https://www.linkedin.com/in/mohamed-ousalem-yahiaoui/]
 
 Thanks for visiting my GitHub! 🚀 Feel free to explore my projects and share your feedback. 🤝
