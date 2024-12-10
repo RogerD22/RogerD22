@@ -26,7 +26,7 @@ Here are some projects I’ve recently worked on:
   Developed a Python script to classify images based on their capture date. The script reads metadata (EXIF data) from image files, organizes them into folders by date, and ensures efficient file management.
 
 ### 📫 Get in Touch
-- **Email**: [mohamedyahiaoui@proton.me]
-- **LinkedIn**: [https://www.linkedin.com/in/mohamed-ousalem-yahiaoui/]
+- **Email**: mohamedyahiaoui@proton.me
+- **LinkedIn**: https://www.linkedin.com/in/mohamed-ousalem-yahiaoui/
 
 Thanks for visiting my GitHub! 🚀 Feel free to explore my projects and share your feedback. 🤝
